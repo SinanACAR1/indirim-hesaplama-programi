@@ -1,0 +1,15 @@
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\bin\Debug\indirim hesaplama.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\bin\Debug\indirim hesaplama.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.csproj.GenerateResource.Cache
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\bin\Debug\indirim hesaplama.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\bin\Debug\indirim hesaplama.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\indirim hesaplama\indirim hesaplama\obj\x86\Debug\indirim hesaplama.pdb
